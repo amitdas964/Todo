@@ -1,0 +1,22 @@
+.\" Manpage for todo
+.\" Contact amit.das@snapdeal.com
+.TH todo "14 Jan 2016" "1.0" "todo man page"
+.SH NAME
+todo
+.SH COMMAND
+todo [option]
+\n option : add | del | show | man
+.SH DESCRIPTION
+todo bash application - type todo [option] from terminal. To add/delete/show your todo tasks just type todo add/del/show and for man page type "todo man".
+.SH EXAMPLE 
+.IP "todo add  - to add new task"
+.IP "todo show - to show your tasks"
+.IP "todo del  - to delete tasks (tasks can also be deleted on double click of each tasks in todo show page)""
+.IP "todo man  - man page of todo"
+.SH
+.SH OPTIONS
+[add] [del] [show] [man] []
+.SH BUGS
+Contact: amit-das@outlook.com
+.SH AUTHOR
+Amit Das
