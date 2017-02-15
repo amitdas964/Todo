@@ -10,6 +10,7 @@
 ### How to install todo
     cd todo-1.0/  
     sudo ./INSTALL 
+    echo "alias todo='/srv/todo/TODO'" >> ~/.bashrc  ## add alias to bashrc
 
 ### How to use todo  
     # To view todo tasks  
